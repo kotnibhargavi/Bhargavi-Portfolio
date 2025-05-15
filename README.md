@@ -68,7 +68,7 @@ This is my personal developer portfolio website built using **React.js**. It sho
 🚀 Getting Started
 To run the project locally:
 
-git clone https://github.com/kotnibhargavi/portfolio.git
+git clone https://github.com/kotnibhargavi/Bhargavi-Portfolio.git
 cd portfolio
 npm install
 npm start
@@ -77,9 +77,12 @@ npm start
 
 Reach me through the contact form on the site or:
 
-- [GitHub](https://github.com/kotnibhargavi)
-- [LinkedIn](https://www.linkedin.com/in/kotnibhargavi/)
-- [Email](mailto:kotnibhargavi0103@gmail.com)
+### Connect with Me
+
+- 📂 [GitHub Profile](https://github.com/kotnibhargavi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kotnibhargavi/)
+- 📧 [Email Me](mailto:kotnibhargavi0103@gmail.com)
+
 
 
 📝 License
