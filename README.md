@@ -79,9 +79,12 @@ Reach me through the contact form on the site or:
 
 ### Connect with Me
 
-- 📂 [GitHub Profile](https://github.com/kotnibhargavi)
-- 💼 [LinkedIn](https://www.linkedin.com/in/kotnibhargavi/)
-- 📧 [Email Me](mailto:kotnibhargavi0103@gmail.com)
+### Connect with Me
+```
+- [GitHub Profile](https://github.com/kotnibhargavi)
+- [LinkedIn](https://www.linkedin.com/in/kotnibhargavi/)
+- [Email Me](mailto:kotnibhargavi0103@gmail.com)
+```
 
 
 
