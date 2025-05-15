@@ -3,7 +3,7 @@
 This is my personal developer portfolio website built using **React.js**. It showcases my projects, skills, experience, contact form, resume, and blogs. The UI is inspired by modern aesthetics with subtle animations and responsiveness across all screen sizes.
 
 ### 🌐 Live Demo
-[Check it out on Vercel](https://your-portfolio-url.vercel.app)
+[Check it out on Vercel](https://bhargavi-portfolio-a7bi.vercel.app/)
 
 ---
 
